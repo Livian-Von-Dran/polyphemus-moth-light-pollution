@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="2e4f4ed1-77d0-4ee2-a895-6f894d3fcc13"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.15468/qrdl22</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vtatlasoflife.org/resource?r=vbs-giant-silkmoths</alternateIdentifier>
+        <alternateIdentifier>2e4f4ed1-77d0-4ee2-a895-6f894d3fcc13</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vtecostudies.org/ipt-2.3.5/resource?r=vbs-giant-silkmoths</alternateIdentifier>
+        <title>Records of Giant Silkmoths (Saturniinae) from Vermont Collections and 2002-2007</title>
+        <creator>
+            <individualName>
+                <givenName>Kent</givenName>
+                <surName>McFarland</surName>
+            </individualName>
+            <organizationName>Vermont Center for Ecostudies</organizationName>
+            <positionName>conservation biologist</positionName>
+            <address>
+                <deliveryPoint>PO Box 420</deliveryPoint>
+                <city>Norwich</city>
+                <administrativeArea>Vermont</administrativeArea>
+                <postalCode>05055</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>802-649-1431</phone>
+            <electronicMailAddress>kmcfarland@vtecostudies.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7809-5503</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Kent</givenName>
+                <surName>McFarland</surName>
+            </individualName>
+            <organizationName>Vermont Center for Ecostudies</organizationName>
+            <positionName>conservation biologist</positionName>
+            <address>
+                <deliveryPoint>PO Box 420</deliveryPoint>
+                <city>Norwich</city>
+                <administrativeArea>Vermont</administrativeArea>
+                <postalCode>05055</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>802-649-1431</phone>
+            <electronicMailAddress>kmcfarland@vtecostudies.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7809-5503</userId>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Kent</givenName>
+                <surName>McFarland</surName>
+            </individualName>
+            <organizationName>Vermont Center for Ecostudies</organizationName>
+            <positionName>conservation biologist</positionName>
+            <address>
+                <deliveryPoint>PO Box 420</deliveryPoint>
+                <city>Norwich</city>
+                <administrativeArea>Vermont</administrativeArea>
+                <postalCode>05055</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>802-649-1431</phone>
+            <electronicMailAddress>kmcfarland@vtecostudies.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7809-5503</userId>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+        </associatedParty>
+        <pubDate>
+                2021-12-22
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            From 2002 to 2007 volunteer butterfly enthusiasts spent thousands of hours in the field in an effort to record the status and distribution of Vermont butterflies. Coupled with this survey was an effort to record all sightings of giant silkmoths (Saturniinae) that were found. As part of the effort, public and private natural history museums were visited to record past records of these species too. This effort continues today as naturalists find and report their sightings via the Vermont Atlas of Life on iNaturalist.
+        </abstract>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://ipt.vtatlasoflife.org/archive.do?r=vbs-giant-silkmoths</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>State of Vermont, United States</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-73.652</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-71.455</eastBoundingCoordinate>
+                    <northBoundingCoordinate>45.042</northBoundingCoordinate>
+                    <southBoundingCoordinate>42.65</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                2002-05-01
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                2007-11-01
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>All Giant Silkmoths (Saturniinae) found in Vermont</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Subfamily</taxonRankName>
+                    <taxonRankValue>Saturniinae</taxonRankValue>
+                    <commonName>giant silkmoths</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Kent</givenName>
+                <surName>McFarland</surName>
+            </individualName>
+            <organizationName>Vermont Center for Ecostudies</organizationName>
+            <positionName>conservation biologist</positionName>
+            <address>
+                <deliveryPoint>PO Box 420</deliveryPoint>
+                <city>Norwich</city>
+                <administrativeArea>Vermont</administrativeArea>
+                <postalCode>05055</postalCode>
+                <country>UNITED_STATES</country>
+            </address>
+            <phone>802-649-1431</phone>
+            <electronicMailAddress>kmcfarland@vtecostudies.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7809-5503</userId>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>See McFarland, Kent; Sara Zahendra (2013): Vermont Butterfly Survey 2002-2007. figshare. Paper.https://doi.org/10.6084/m9.figshare.827269.v1</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>State of Vermont, United States</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Random observations collected during the Vermont Butterfly Survey. See McFarland, Kent; Sara Zahendra (2013): Vermont Butterfly Survey 2002-2007. figshare. Paper.https://doi.org/10.6084/m9.figshare.827269.v1</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Specimens and photographs were taken for most observations and identified by project biologists. See McFarland, Kent; Sara Zahendra (2013): Vermont Butterfly Survey 2002-2007. figshare. Paper.https://doi.org/10.6084/m9.figshare.827269.v1</para>
+                </description>
+            </qualityControl>
+        </methods>
+
+            <project >
+                <title>Vermont Butterfly Survey - Vermont Atlas of Life</title>
+                <personnel>
+                    <individualName>
+                    <givenName>Kent</givenName>
+                    <surName>McFarland</surName>
+                    </individualName>
+            <userId directory="http://orcid.org/">0000-0001-7809-5503</userId>
+                    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                </personnel>
+                <abstract>
+                    <para>From 2002 to 2007 volunteer butterfly enthusiasts spent thousands of hours in the field in an effort to record the status and distribution of Vermont butterflies. Coupled with this survey was an effort to record all sightings of giant silkmoths that were found. Additionally, private and public natural history collections were visited to record any historic specimens that were present.
+
+Four species of silkmoths were reported during the survey from 2002-2007: Cecropia Silkmoth (18 records), Promethea Silkmoth (7 records), Polyphemus Moth (10 records), and Luna Moth (28 records). Columbia Silkmoth (no historic records in Vermont, but found nearby in Quebec) and the exotic Ailanthus Silkmoth (one historic record) were not reported. It is difficult to determine if these moths are truly rare or if the paucity of records simply reflected observers focusing on butterflies as this was completed as a smaller companion project with the Vermont Butterfly Survey.</para>
+                </abstract>
+                <funding>
+                    <para>Financial support was provided by the Vermont Department of Fish and Wildlife – Wildlife Conservation and Restoration Program, the Vermont Department of Fish and Wildlife – State Wildlife Grants, the William P. Wharton Trust, the Windham Foundation, ESRI: Environmental Systems Research Institute and individual supporters and donors.</para>
+                </funding>
+                <studyAreaDescription>
+                    <descriptor name="generic" citableClassificationSystem="false">
+                        <descriptorValue>State of Vermont, United States.</descriptorValue>
+                    </descriptor>
+                </studyAreaDescription>
+                <designDescription>
+                    <description>
+                        <para>From 2002 to 2007 volunteer butterfly enthusiasts spent thousands of hours in the field in an effort to record the status and distribution of Vermont butterflies. Coupled with this survey was an effort to record all sightings of giant silkmoths that were found. Additionally, private and public natural history collections were visited to record any historic specimens that were present.</para>
+                    </description>
+                </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-11-20T00:53:58Z</dateStamp>
+                <citation>McFarland K (2021). Records of Giant Silkmoths (Saturniinae) from Vermont Collections and 2002-2007. Version 1.6. Vermont Center for Ecostudies. Occurrence dataset https://doi.org/10.15468/qrdl22 accessed via GBIF.org on 2025-11-20.</citation>
+                <bibliography>
+                <citation>McFarland, Kent; Sara Zahendra (2013): Vermont Butterfly Survey 2002-2007. figshare. Paper.https://doi.org/10.6084/m9.figshare.827269.v1</citation>
+                <citation>McFarland, Kent P. and Bryan Pfeiffer. Vermont Butterfly Survey. Vermont Center for Ecostudies – Vermont Atlas of Life. Retrieved from http://val.vtecostudies.org. 9-1-2018.</citation>
+                <citation>McFarland, K.P. 2015. Vermont Giant Silkmoth (Saturniinae) Atlas. Vermont Center for Ecostudies – Vermont Atlas of Life. Retrieved from http://val.vtecostudies.org. 9-1-2018.</citation>
+                </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>

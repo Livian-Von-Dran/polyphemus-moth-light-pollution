@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="3484c814-c0f1-453c-8501-50d4846c4ba6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <alternateIdentifier>10.5886/i6z1vo</alternateIdentifier>
+        <alternateIdentifier>https://data.canadensys.net/ipt/resource?r=imqc-specimens</alternateIdentifier>
+        <alternateIdentifier>3484c814-c0f1-453c-8501-50d4846c4ba6</alternateIdentifier>
+        <alternateIdentifier>http://data.canadensys.net/ipt/resource?r=imqc-specimens</alternateIdentifier>
+        <title>Insectarium de Montréal (IMQC)</title>
+        <creator>
+            <individualName>
+                <givenName>Maxim</givenName>
+                <surName>Larrivée</surName>
+            </individualName>
+            <organizationName>Insectarium de Montréal</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>4581 rue Sherbrooke est</deliveryPoint>
+                <city>Montréal</city>
+                <administrativeArea>Québec</administrativeArea>
+                <postalCode>H1X 2B2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>maxim.larrivee@ville.montreal.qc.ca</electronicMailAddress>
+            <onlineUrl>http://espacepourlavie.ca/insectarium</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Maxim</givenName>
+                <surName>Larrivée</surName>
+            </individualName>
+            <organizationName>Insectarium de Montréal</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>4581 rue Sherbrooke est</deliveryPoint>
+                <city>Montréal</city>
+                <administrativeArea>Québec</administrativeArea>
+                <postalCode>H1X 2B2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>maxim.larrivee@ville.montreal.qc.ca</electronicMailAddress>
+            <onlineUrl>http://espacepourlavie.ca/insectarium</onlineUrl>
+        </metadataProvider>
+        <associatedParty>
+            <individualName>
+                <givenName>Vincent</givenName>
+                <surName>Lessard</surName>
+            </individualName>
+            <organizationName>Université de Montréal</organizationName>
+            <positionName>Graduate student</positionName>
+            <address>
+                <deliveryPoint>4101 rue Sherbrooke est</deliveryPoint>
+                <city>Montréal</city>
+                <administrativeArea>Québec</administrativeArea>
+                <postalCode>H1X 2B2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>vincent.lessard@umontreal.ca</electronicMailAddress>
+            <role>USER</role>
+        </associatedParty>
+        <associatedParty>
+            <individualName>
+                <givenName>Colin</givenName>
+                <surName>Favret</surName>
+            </individualName>
+            <organizationName>Université de Montréal</organizationName>
+            <positionName>Professor</positionName>
+            <address>
+                <deliveryPoint>4101 rue Sherbrooke est</deliveryPoint>
+                <city>Montreal</city>
+                <administrativeArea>QC</administrativeArea>
+                <postalCode>H1X 2B2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>colin.favret@umontreal.ca</electronicMailAddress>
+            <onlineUrl>http://favret.aphidnet.org</onlineUrl>
+            <userId directory="http://orcid.org/">0000-0001-6243-3184</userId>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <pubDate>
+                2020-03-02
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            The Montréal Insectarium was created thanks to the initiative of notary and self-taught entomologist Georges Brossard, who, in 1988, donated a major collection of naturalized insects. This collection was displayed until the complete renovation of the permanent exhibition in 2011. Then, in 1989, the scientific and historical collection of Brother Firmin Laliberté was used as a starting point for the Insectarium’s scientific collections. The Insectarium’s scientific collections are composed of more than 225,000 insect specimens and include major specialized collections for certain taxa. They also offer a synoptic overview of Québec’s insects. Over the past five years, more than 900 type specimens have been put into the Insectarium’s scientific collections.
+        </abstract>
+        <keywordSet>
+            <keyword>Espace pour la vie</keyword>
+            <keyword>Canada</keyword>
+            <keyword>Space for Life</keyword>
+            <keyword>IMQC</keyword>
+            <keyword>Entomology</keyword>
+            <keyword>Quebec</keyword>
+            <keyword>Specimens</keyword>
+            <keyword>Collection</keyword>
+            <keyword>Canadensys</keyword>
+            <keyword>Occurrence</keyword>
+            <keyword>Insectarium de Montréal</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Occurrence</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Specimen</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution Non Commercial 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-NC-4.0.html</url>
+            <identifier>CC-BY-NC-4.0</identifier>
+        </licensed>
+        <distribution scope="document">
+            <online>
+                <url function="download">https://data.canadensys.net/ipt/archive.do?r=imqc-specimens</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>Insects from Québec and around the world.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-180</westBoundingCoordinate>
+                    <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                    <northBoundingCoordinate>90</northBoundingCoordinate>
+                    <southBoundingCoordinate>-90</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>                1914
+</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>                1992
+</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>Entomological collection</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Insecta</taxonRankValue>
+                    <commonName>Insects</commonName>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Acari</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Cheleutoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Coleoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dermaptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Dictyoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Diptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Ephemeroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Grylloptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hemiptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Suborder</taxonRankName>
+                    <taxonRankValue>Homoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Hymenoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Lepidoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Neuroptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Odonata</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Order</taxonRankName>
+                    <taxonRankValue>Orthoptera</taxonRankValue>
+                </taxonomicClassification>
+                <taxonomicClassification>
+                    <taxonRankName>Class</taxonRankName>
+                    <taxonRankValue>Arachnida</taxonRankValue>
+                    <commonName>Arachnids</commonName>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Maxim</givenName>
+                <surName>Larrivée</surName>
+            </individualName>
+            <organizationName>Insectarium de Montréal</organizationName>
+            <positionName>Curator</positionName>
+            <address>
+                <deliveryPoint>4581 rue Sherbrooke est</deliveryPoint>
+                <city>Montréal</city>
+                <administrativeArea>Québec</administrativeArea>
+                <postalCode>H1X 2B2</postalCode>
+                <country>CANADA</country>
+            </address>
+            <electronicMailAddress>maxim.larrivee@ville.montreal.qc.ca</electronicMailAddress>
+            <onlineUrl>http://espacepourlavie.ca/insectarium</onlineUrl>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-11-20T00:53:59Z</dateStamp>
+                <citation identifier="https://doi.org/10.5886/i6z1vo">Larrivée M (2020). Insectarium de Montréal (IMQC). Version 2.5. Insectarium de Montréal. Occurrence dataset https://doi.org/10.5886/i6z1vo accessed via GBIF.org on 2025-11-20.</citation>
+                <resourceLogoUrl>http://data.canadensys.net/ipt/logo.do?r=imqc-specimens</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>
